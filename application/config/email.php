@@ -9,8 +9,8 @@ $config['protocol']='smtp';  //tipe protocol
 $config['smtp_host']='ssl://smtp.googlemail.com';  //ini host google. kalo pake yang lain ya ganti
 $config['smtp_port']='465';  //port nya juga ganti
 $config['smtp_timeout']='30';  
-$config['smtp_user']='theking.sapta@gmail.com';  //alamat email pengirim
-$config['smtp_pass']='7dft6jk3@free';  //passwordnya
+$config['smtp_user']='xxxxxxx@gmail.com';  //alamat email pengirim
+$config['smtp_pass']='xxxxxxxxx';  //passwordnya
 $config['charset']='utf-8';  
 $config['newline']="\r\n";  
    
